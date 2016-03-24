@@ -1,12 +1,12 @@
 {
-  "name": "strml.net",
+  "name": "qtnsilicon.com",
   "version": "0.0.1",
   "description": "",
   "main": "app.js",
   "scripts": {
     "build": "webpack .",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "echo 'Open http://localhost:4003/index-dev.html'; webpack-dev-server --config webpack-dev-server.config.js --hot --progress --colors --port 4003 --content-base ."
+    "dev": "echo 'Open http://localhost:3000/index-dev.html'; webpack-dev-server --config webpack-dev-server.config.js --hot --progress --colors --port 3000 --content-base ."
   },
   "author": "QTN Silicon <qtnsilicon@gmail.com> (http://qtnglobal.org/)",
   "license": "MIT",
